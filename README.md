@@ -75,8 +75,11 @@ Current features include:
 
 This project is still very buggy and unstable. Running it on real hardware is strongly discouraged. It should only be tested inside a properly isolated virtual machine.
 
-
-  
+### Computer fuck melter edition 
+  * This malware does..
+  * Hardware melting
+  * Overclocking
+  * Not recommended for real hardware
 
 ## Purpose of This Repository
 
