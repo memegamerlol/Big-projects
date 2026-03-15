@@ -1,6 +1,6 @@
 ⚠️ Educational / Research Repository
 
-This repository contains several experimental malware simulations and proof-of-concept programs created for learning, analysis, and security research purposes. The goal is to explore how malicious software behaves so that developers and security researchers can better understand detection, mitigation, and defensive programming.
+This repository contains several experimental malware and proof-of-concept programs created for learning, analysis, and security research purposes. The goal is to explore how malicious software behaves so that developers and security researchers can better understand detection, mitigation, and defensive programming.
 
 These projects are NOT intended for real-world deployment or malicious use.
 
